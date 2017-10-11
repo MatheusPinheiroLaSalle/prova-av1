@@ -1,0 +1,6 @@
+./matheus2.txt
+./matheus3.txt
+./pasta2/2.txt
+./matheus1.txt
+./pasta3/pasta31/3.txt
+./pasta1/1.txt
